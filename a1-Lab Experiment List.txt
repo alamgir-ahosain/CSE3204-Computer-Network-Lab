@@ -1,0 +1,27 @@
+1. Configuring a server and connecting it to devices to create a LAN
+2. Configuring HTTP services in a server
+3. Connecting two different LANs and sharing HTTP services
+
+4. Configuring FTP services in a server
+5. Configuring SMTP/E-Mail services in a server
+6. Configuring multiple servers with HTTP services (e.g. making their respective websites) and connecting them to their respective LANs, creating a WAN by connecting all the LANs and sharing their services with each other
+
+7. Configuring DNS service in a server
+8. Configuring DHCP service in a server
+9. Configuring HTTP, FTP, DNS, DHCP, SMTP services in a pair of servers, connecting them to their LANs and creating a WAN by connecting the LANs
+10. IoT based Smart Home simulation
+
+11. Cisco SDN Implementation with REST API
+
+12. Mininet Topology Creation (Mininet Installation Process Separately)
+
+13. Mininet SDN Implementation
+14. NS3 P2P Topology/Network
+15. NS3 WAN Topology/Network Creation 
+
+
+Extra:
+1. Client-Server Program using Python/Java (Socket Programming)
+2. Distance Vector Routing Algorithm Implementation with Visualization 
+
+Note: 13 is subjected to removal if not finished before deadline - Saturday, 18th Jan

@@ -1,0 +1,7 @@
+create .py file on mininet/util
+Go the util command cd
+open util in terminal then run 
+
+sudo python3 ./sdn_topology.py
+mininet->pingall
+mininet->g1 ping 10.0.2.2

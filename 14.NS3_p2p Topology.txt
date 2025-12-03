@@ -1,0 +1,21 @@
+1* Create .cc file on  ns-3.43/Scratch
+
+2* open in the command
+
+ alamgir@alamgir:~/ns-allinone-3.43/ns-3.43$
+
+ ./ns3 run scratch/p2p.cc
+
+
+3* ./ns3 run scratch/p2p.cc
+
+4* Open NetAnim
+ i. alamgir@alamgir:~/ns-allinone-3.43$ 
+ ii. ls (here show the netanim-3.109) and cd on netanim
+ iii. inside netanime ,see the NetAnim file with the color of green.
+iv.run the ./NetAnim
+
+v.open the folder ns-3.38 and open the p2p.py
+
+
+
